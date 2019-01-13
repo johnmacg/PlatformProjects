@@ -1,5 +1,8 @@
 from datetime import datetime
 
+print "Current date and time function:"
+
+
 now = datetime.now()
 
 mm = str(now.month)
